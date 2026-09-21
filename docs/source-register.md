@@ -43,6 +43,18 @@ The closing pages are assessed in [the closing pages review](2025-11-20-governme
 
 The supplied `Journal(20260921-111230).pdf` is another five-page Page 15 export. Its extracted text has the same SHA-256 (`c58fe1f369ece43eff36161f0d2debb3c3058dc0c5b9110577c4483279d15663`) as J1. Its PDF bytes differ; original SHA-256 `1c363bf3cf84caff8f91fab5691cfe8bd5010313bf5255d256d02a0342c80063`. It is documented as a duplicate text export and not published again. J1 remains the public Page 15 source.
 
+Seven further Section 12 entries are assessed in [the supporting-document review](2025-11-20-section-12-supporting-documents-review.md):
+
+| ID | Entry | Public source | Copy state |
+| --- | --- | --- | --- |
+| J19 | Four federal documents plan, 6 pages | [PDF](../sources/Journal%2820260921-111948%29.pdf) | Unchanged export. |
+| J20 | AI Assurance Report draft, 8 pages | [PDF](../sources/Journal%2820260921-112002%29-public-redacted.pdf) | Redacted derivative; contact details removed. |
+| J21 | SSP section draft, 10 pages | [PDF](../sources/Journal%2820260921-112023%29-public-redacted.pdf) | Redacted derivative; contact details and address removed. |
+| J22 | Full SSP v1.0 draft, 11 pages | [PDF](../sources/Journal%2820260921-112052%29-public-redacted.pdf) | Redacted derivative; contact details and address removed. |
+| J23 | Text data-flow diagram, 7 pages | [PDF](../sources/Journal%2820260921-112113%29.pdf) | Unchanged export. |
+| J24 | PIA structure and tone selection, 8 pages | [PDF](../sources/Journal%2820260921-112140%29.pdf) | Unchanged export; outline, not a completed PIA. |
+| J25 | Integrated pack recommendation, 6 pages | [PDF](../sources/Journal%2820260921-112201%29.pdf) | Unchanged export; recommendation, not the pack itself. |
+
 **J1 file integrity:** SHA-256 `d900263b8f98c15475011c649d1acf9362667ea5afb59f72428278da5f0cbf29` (the PDF stored in this package).
 
 ## Index-only leads
