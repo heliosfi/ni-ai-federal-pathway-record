@@ -13,6 +13,7 @@ The record shows a structured attempt to define capabilities, identify complianc
 1. Read [the Government Pack batch review](docs/2025-11-20-government-pack-batch-review.md) for the first six entries, [the continuation review](docs/2025-11-20-government-pack-continuation-review.md) for Pages 5–11, [the closing pages review](docs/2025-11-20-government-pack-closing-pages-review.md) for Pages 12–15, and [the Section 12 supporting-document review](docs/2025-11-20-section-12-supporting-documents-review.md).
 2. Read [the Page 15 reconstruction](docs/2025-11-20-page-15-reconstruction.md) for the initial entry. Consult [its original five-page export](sources/Journal%2820260921-095658%29.pdf) to check the wording and page references.
 3. Use [the source register](docs/source-register.md) to locate all twenty-five distinct public copies and the duplicate-export note.
+4. For later and adjacent work, read [the MIARE and EchoAuth chronology note](docs/later-miare-echoauth-chronology.md). Its six sources are outside the Government Pack count and do not establish the current state of EchoAuth.
 
 ## Attribution and evidence rule
 
