@@ -2,17 +2,17 @@
 
 **Originating project direction and journal curation:** Nicholas B. Carty (N.B.C. / Salo Carty)  
 **Record prepared:** 2026-09-21  
-**Status:** historical reconstruction from fifteen journal exports; one further export in the stated batch remains to be supplied
+**Status:** historical reconstruction from eighteen distinct journal texts; Page 15 was also supplied as a second PDF export
 
-This repository gives a reader a short, traceable entry point into N.B.C.'s independent work on NI–AI, EchoAuth, and a possible federal access pathway. The starting source is a five-page journal export headed **Thursday, November 20, 2025 — “Page 15 federal integration summary & next action pathway.”** Fourteen further exports document a Government Pack text master, a capability statement, and federal-edition Pages 1–10 with two distinct Page 11 drafts. The exports were uploaded on September 21, 2026. Their internal headings are not independently verified creation timestamps.
+This repository gives a reader a short, traceable entry point into N.B.C.'s independent work on NI–AI, EchoAuth, and a possible federal access pathway. The starting source is a five-page journal export headed **Thursday, November 20, 2025 — “Page 15 federal integration summary & next action pathway.”** Seventeen further distinct exports document a Government Pack text master, a capability statement, and federal-edition Pages 1–14 with two distinct Page 11 drafts. A second Page 15 PDF export has identical extracted text to the starting source and is recorded without publishing a redundant copy. The exports were uploaded on September 21, 2026. Their internal headings are not independently verified creation timestamps.
 
 The record shows a structured attempt to define capabilities, identify compliance work, sketch small pilots, and study funding and acquisition routes. It does **not** establish completed federal registration, an agency relationship, an award, a compliant deployment, or measured outcomes.
 
 ## Start here
 
-1. Read [the Government Pack batch review](docs/2025-11-20-government-pack-batch-review.md) for the first six entries, then [the continuation review](docs/2025-11-20-government-pack-continuation-review.md) for Pages 5–11 and claims held for evidence.
+1. Read [the Government Pack batch review](docs/2025-11-20-government-pack-batch-review.md) for the first six entries, [the continuation review](docs/2025-11-20-government-pack-continuation-review.md) for Pages 5–11, and [the closing pages review](docs/2025-11-20-government-pack-closing-pages-review.md) for Pages 12–15.
 2. Read [the Page 15 reconstruction](docs/2025-11-20-page-15-reconstruction.md) for the initial entry. Consult [its original five-page export](sources/Journal%2820260921-095658%29.pdf) to check the wording and page references.
-3. Use [the source register](docs/source-register.md) to locate all fifteen public copies and see what remains to be examined.
+3. Use [the source register](docs/source-register.md) to locate all eighteen distinct public copies and the duplicate-export note.
 
 ## Attribution and evidence rule
 
