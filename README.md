@@ -2,23 +2,25 @@
 
 **Originating project direction and journal curation:** Nicholas B. Carty (N.B.C. / Salo Carty)  
 **Record prepared:** 2026-09-21  
-**Status:** historical reconstruction from eighteen distinct journal texts; Page 15 was also supplied as a second PDF export
+**Status:** historical reconstruction from twenty-five distinct journal texts; Page 15 was also supplied as a second PDF export
 
-This repository gives a reader a short, traceable entry point into N.B.C.'s independent work on NI–AI, EchoAuth, and a possible federal access pathway. The starting source is a five-page journal export headed **Thursday, November 20, 2025 — “Page 15 federal integration summary & next action pathway.”** Seventeen further distinct exports document a Government Pack text master, a capability statement, and federal-edition Pages 1–14 with two distinct Page 11 drafts. A second Page 15 PDF export has identical extracted text to the starting source and is recorded without publishing a redundant copy. The exports were uploaded on September 21, 2026. Their internal headings are not independently verified creation timestamps.
+This repository gives a reader a short, traceable entry point into N.B.C.'s independent work on NI–AI, EchoAuth, and a possible federal access pathway. The starting source is a five-page journal export headed **Thursday, November 20, 2025 — “Page 15 federal integration summary & next action pathway.”** Twenty-four further distinct exports document a Government Pack text master, a capability statement, federal-edition Pages 1–14 with two distinct Page 11 drafts, and seven Section 12 supporting-document drafts. A second Page 15 PDF export has identical extracted text to the starting source and is recorded without publishing a redundant copy. The exports were uploaded on September 21, 2026. Their internal headings are not independently verified creation timestamps.
 
 The record shows a structured attempt to define capabilities, identify compliance work, sketch small pilots, and study funding and acquisition routes. It does **not** establish completed federal registration, an agency relationship, an award, a compliant deployment, or measured outcomes.
 
 ## Start here
 
-1. Read [the Government Pack batch review](docs/2025-11-20-government-pack-batch-review.md) for the first six entries, [the continuation review](docs/2025-11-20-government-pack-continuation-review.md) for Pages 5–11, and [the closing pages review](docs/2025-11-20-government-pack-closing-pages-review.md) for Pages 12–15.
+1. Read [the Government Pack batch review](docs/2025-11-20-government-pack-batch-review.md) for the first six entries, [the continuation review](docs/2025-11-20-government-pack-continuation-review.md) for Pages 5–11, [the closing pages review](docs/2025-11-20-government-pack-closing-pages-review.md) for Pages 12–15, and [the Section 12 supporting-document review](docs/2025-11-20-section-12-supporting-documents-review.md).
 2. Read [the Page 15 reconstruction](docs/2025-11-20-page-15-reconstruction.md) for the initial entry. Consult [its original five-page export](sources/Journal%2820260921-095658%29.pdf) to check the wording and page references.
-3. Use [the source register](docs/source-register.md) to locate all eighteen distinct public copies and the duplicate-export note.
+3. Use [the source register](docs/source-register.md) to locate all twenty-five distinct public copies and the duplicate-export note.
 
 ## Attribution and evidence rule
 
 N.B.C. identifies the project direction, structure, and journals as his work. The exports contain conversational draft language, including assistant responses; this repository does not claim that every sentence in them was written solely by N.B.C. The reconstruction is an editorial evidence record. It credits his originating direction while distinguishing journal text, his later firsthand account, and external verification.
 
 Two of the six newly added public PDFs have contact, address, and one demographic detail redacted. Their unredacted originals were not published. See the [source-copy note](sources/README.md). Other strong wording remains visible in the historical drafts and is assessed in the batch review; it is not adopted as a current finding.
+
+Three Section 12 supporting-document PDFs also have direct contact details and a street address redacted. Their planning language, including claims of completed assurance and security controls, remains historical source text and is assessed in the supporting-document review.
 
 Each later addition should name its source and date, quote or cite the relevant passage, identify whether it is a proposal, attempt, completed artifact, or independently verified result, and record unresolved questions. A repository commit preserves a representation; it does not by itself prove implementation, compliance, procurement eligibility, or acceptance.
 
