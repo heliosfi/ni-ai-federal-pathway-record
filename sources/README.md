@@ -57,3 +57,16 @@ J20–J22 are public redacted derivatives. Direct email, phone, and a street add
 | `Journal(20260921-112113).pdf` | `97ce05ad5070dc00c527f5dae667c484bdca94eff3ee8622edf6bd6ec4912fac` | Unchanged export |
 | `Journal(20260921-112140).pdf` | `228c64dd01fd8c1ae28613fc4f9b8cbf27ad20872da6dc9f0ac4eda9d8ea301c` | Unchanged export |
 | `Journal(20260921-112201).pdf` | `97a3e4a282bb24abbaab5cbe182f3275b0ce7e4d5c11a71cb1467f1f77f558ea` | Unchanged export |
+
+## Later and adjacent work
+
+Six unchanged exports are in [`later-work/`](later-work/). They are not Government Pack pages. The [chronology note](../docs/later-miare-echoauth-chronology.md) separates an engineering proposal and SSP revision from later EchoAuth repository-setup material. Their historical wording is not a current implementation, medical/legal assurance, patent status, or repository verification finding.
+
+| File in `later-work/` | SHA-256 |
+| --- | --- |
+| `Journal(20260921-112720).pdf` | `4316bcbf224f473a411fe9a66dd04385b1c12199968444f9d8eccbb35587c447` |
+| `Journal(20260921-112739).pdf` | `4344df87931dc054abb58479f8dc53154f6218e83be129b76ee735f36d0ac5b1` |
+| `Journal(20260921-112808).pdf` | `b43c21a2f8023fda7077efc55c00488d3e8db16c7f3db515fa23a8eab5e3124f` |
+| `Journal(20260921-112838).pdf` | `b74fb6fdc85ee5f8f64e524c1873c1fba8028216928a8f34452db62120eccf5e` |
+| `Journal(20260921-112903).pdf` | `5db6bfd4c636c84844f0c809dc9c5ee5845419b75cd50f0b48ec679380146e4c` |
+| `Journal(20260921-112927).pdf` | `6c01c4cf4b8bd5b851980bac1b7de2ba39a12daf6a86bfcdefd3830fc94497b1` |
