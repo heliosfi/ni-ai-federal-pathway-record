@@ -55,6 +55,19 @@ Seven further Section 12 entries are assessed in [the supporting-document review
 | J24 | PIA structure and tone selection, 8 pages | [PDF](../sources/Journal%2820260921-112140%29.pdf) | Unchanged export; outline, not a completed PIA. |
 | J25 | Integrated pack recommendation, 6 pages | [PDF](../sources/Journal%2820260921-112201%29.pdf) | Unchanged export; recommendation, not the pack itself. |
 
+## Later and adjacent journal sources
+
+The six exports L1–L6 are indexed separately in [the MIARE and EchoAuth chronology note](later-miare-echoauth-chronology.md). They are not further pages of the Government Pack. L1 is headed November 27, 2025; L2 is headed June 16, 2026; L3–L6 are headed June 17, 2026. Their upload was September 21, 2026. The dates in the journal text are not independently authenticated. These sources document proposals and repository-setup instructions, not the canonical current state of another repository.
+
+| ID | Entry | Public source | Copy state |
+| --- | --- | --- | --- |
+| L1 | MIARE engineering blueprint, 11 pages | [PDF](../sources/later-work/Journal%2820260921-112720%29.pdf) | Unchanged export. |
+| L2 | NI–AI SSP upgrade, 4 pages | [PDF](../sources/later-work/Journal%2820260921-112739%29.pdf) | Unchanged export. |
+| L3 | GitHub repository setup instructions, 2 pages | [PDF](../sources/later-work/Journal%2820260921-112808%29.pdf) | Unchanged export. |
+| L4 | EchoAuth repository tree sketch, 1 page | [PDF](../sources/later-work/Journal%2820260921-112838%29.pdf) | Unchanged export. |
+| L5 | Proposed repository documentation content, 7 pages | [PDF](../sources/later-work/Journal%2820260921-112903%29.pdf) | Unchanged export. |
+| L6 | Proposed file/folder placement, 4 pages | [PDF](../sources/later-work/Journal%2820260921-112927%29.pdf) | Unchanged export. |
+
 **J1 file integrity:** SHA-256 `d900263b8f98c15475011c649d1acf9362667ea5afb59f72428278da5f0cbf29` (the PDF stored in this package).
 
 ## Index-only leads
