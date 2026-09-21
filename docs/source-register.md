@@ -31,7 +31,17 @@ Eight continuation exports are assessed in [the continuation review](2025-11-20-
 | J14 | Page 11 security and compliance requirements, 6 pages | [PDF](../sources/Journal%2820260921-110543%29.pdf) | Unchanged export. |
 | J15 | Another Page 11 compliance and risk framework, 5 pages | [PDF](../sources/Journal%2820260921-110619%29.pdf) | Unchanged export; distinct draft sharing the Page 11 label. |
 
-N.B.C. stated nine more remained after J7. Eight continuation exports have been supplied here; the ninth has not yet been identified or examined. This count is an intake note, not a claim that the Government Pack is complete.
+N.B.C. stated nine more remained after J7. Eight continuation exports were first supplied; the later Page 12 upload supplies the ninth. Three more uploads followed: Pages 13 and 14, plus a second export of Page 15. This is an intake count, not proof that every proposed subdocument was completed.
+
+The closing pages are assessed in [the closing pages review](2025-11-20-government-pack-closing-pages-review.md):
+
+| ID | Entry | Public source | Copy state |
+| --- | --- | --- | --- |
+| J16 | Page 12 federal compliance and cybersecurity requirements, 15 pages | [PDF](../sources/Journal%2820260921-111115%29.pdf) | Unchanged export. |
+| J17 | Page 13 federal acquisition pathways, 8 pages | [PDF](../sources/Journal%2820260921-111145%29.pdf) | Unchanged export. |
+| J18 | Page 14 federal compliance and cybersecurity integration, 11 pages | [PDF](../sources/Journal%2820260921-111208%29.pdf) | Unchanged export. |
+
+The supplied `Journal(20260921-111230).pdf` is another five-page Page 15 export. Its extracted text has the same SHA-256 (`c58fe1f369ece43eff36161f0d2debb3c3058dc0c5b9110577c4483279d15663`) as J1. Its PDF bytes differ; original SHA-256 `1c363bf3cf84caff8f91fab5691cfe8bd5010313bf5255d256d02a0342c80063`. It is documented as a duplicate text export and not published again. J1 remains the public Page 15 source.
 
 **J1 file integrity:** SHA-256 `d900263b8f98c15475011c649d1acf9362667ea5afb59f72428278da5f0cbf29` (the PDF stored in this package).
 
