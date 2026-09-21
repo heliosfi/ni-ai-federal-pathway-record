@@ -33,3 +33,13 @@ The following eight PDFs are unchanged exports supplied September 21, 2026. The 
 | `Journal(20260921-110520).pdf` | `0e3afc98da3ea9b2e53a7662972b15234e873989b09783a35506749282a628ec` |
 | `Journal(20260921-110543).pdf` | `92dd6a202baa4fe2b4e5d26a836d45cac051dddc09d624fccc67ce971f9b375d` |
 | `Journal(20260921-110619).pdf` | `dabd7e9c433573b9945c7d8c72f5610941e2d2c95c492b5358aad279201410e1` |
+
+## Closing pages
+
+These three unchanged exports add Pages 12–14. See [the closing pages review](../docs/2025-11-20-government-pack-closing-pages-review.md). A second Page 15 export (`Journal(20260921-111230).pdf`, original SHA-256 `1c363bf3cf84caff8f91fab5691cfe8bd5010313bf5255d256d02a0342c80063`) has the same extracted text as the already-public J1, though its PDF bytes differ. It is not republished; J1 is the public source for that text.
+
+| File | SHA-256 |
+| --- | --- |
+| `Journal(20260921-111115).pdf` | `d8ff80e9ad42f55efd5e6f4c52c069e3b7993b08c93cfee1e3399b42adc49d1b` |
+| `Journal(20260921-111145).pdf` | `e2049009d1240d2bf091c58288d7ee6af0d810d99965534f6044d1b8ee6fb067` |
+| `Journal(20260921-111208).pdf` | `a59ef528c6e92fd839b4c74231bd79dd25232b6e198fa538300a4cc2e41cb07f` |
