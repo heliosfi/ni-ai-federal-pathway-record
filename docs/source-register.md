@@ -18,6 +18,21 @@ Six further exports are indexed in [the Government Pack batch review](2025-11-20
 | J6 | Page 3 NIH use case, 6 pages | [PDF](../sources/Journal%2820260921-105123%29.pdf) | Unchanged export. |
 | J7 | Page 4 NIH expansion, 7 pages | [PDF](../sources/Journal%2820260921-105200%29.pdf) | Unchanged export. |
 
+Eight continuation exports are assessed in [the continuation review](2025-11-20-government-pack-continuation-review.md):
+
+| ID | Entry | Public source | Copy state |
+| --- | --- | --- | --- |
+| J8 | Page 5 NSF use case, 5 pages | [PDF](../sources/Journal%2820260921-110301%29.pdf) | Unchanged export. |
+| J9 | Page 6 DoD use case, 5 pages | [PDF](../sources/Journal%2820260921-110339%29.pdf) | Unchanged export. |
+| J10 | Page 7 DHS use case, 6 pages | [PDF](../sources/Journal%2820260921-110403%29.pdf) | Unchanged export. |
+| J11 | Page 8 DOE use case, 4 pages | [PDF](../sources/Journal%2820260921-110429%29.pdf) | Unchanged export. |
+| J12 | Page 9 technical requirements, 6 pages | [PDF](../sources/Journal%2820260921-110449%29.pdf) | Unchanged export. |
+| J13 | Page 10 text architecture diagram, 4 pages | [PDF](../sources/Journal%2820260921-110520%29.pdf) | Unchanged export. |
+| J14 | Page 11 security and compliance requirements, 6 pages | [PDF](../sources/Journal%2820260921-110543%29.pdf) | Unchanged export. |
+| J15 | Another Page 11 compliance and risk framework, 5 pages | [PDF](../sources/Journal%2820260921-110619%29.pdf) | Unchanged export; distinct draft sharing the Page 11 label. |
+
+N.B.C. stated nine more remained after J7. Eight continuation exports have been supplied here; the ninth has not yet been identified or examined. This count is an intake note, not a claim that the Government Pack is complete.
+
 **J1 file integrity:** SHA-256 `d900263b8f98c15475011c649d1acf9362667ea5afb59f72428278da5f0cbf29` (the PDF stored in this package).
 
 ## Index-only leads
