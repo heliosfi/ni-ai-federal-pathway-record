@@ -43,3 +43,17 @@ These three unchanged exports add Pages 12–14. See [the closing pages review](
 | `Journal(20260921-111115).pdf` | `d8ff80e9ad42f55efd5e6f4c52c069e3b7993b08c93cfee1e3399b42adc49d1b` |
 | `Journal(20260921-111145).pdf` | `e2049009d1240d2bf091c58288d7ee6af0d810d99965534f6044d1b8ee6fb067` |
 | `Journal(20260921-111208).pdf` | `a59ef528c6e92fd839b4c74231bd79dd25232b6e198fa538300a4cc2e41cb07f` |
+
+## Section 12 supporting documents
+
+J20–J22 are public redacted derivatives. Direct email, phone, and a street address where present were removed from visible pages and extractable text. The original exports were supplied by N.B.C. and are not in this public repository. J19 and J23–J25 are unchanged. The review distinguishes draft artifacts from assessed controls and notes that the PIA remains an outline.
+
+| Public file | Public SHA-256 | Original SHA-256 / relationship |
+| --- | --- | --- |
+| `Journal(20260921-111948).pdf` | `16aa610109235ae19f4a63ba671a6269c567d8116d773f71741bbf345938227d` | Unchanged export |
+| `Journal(20260921-112002)-public-redacted.pdf` | `5e556f45032766900de9a35e260a6ad78c2049a887fb7efba57f4e40ecfc9bbc` | `ff3d765cf2d263e764d1692ebb90ca489577a25e137cf3fc6194d65229568d37` / redacted derivative |
+| `Journal(20260921-112023)-public-redacted.pdf` | `07dbccdbd7c6533cacac4496d3eea300bfb8ba2b0497b1642158ef46ca847bc8` | `bc49f8bb6856d3df9aff6646a66f5355e2c2f4c543f2c07e2f61493aab39b422` / redacted derivative |
+| `Journal(20260921-112052)-public-redacted.pdf` | `6104903386b17136352006db4bda34478c04a40761036c838498c38bdf8dcf82` | `a08fb4a3c9fc1b5d963e3b4623158b66931102e4b0a798e4b3355370903cbfe3` / redacted derivative |
+| `Journal(20260921-112113).pdf` | `97ce05ad5070dc00c527f5dae667c484bdca94eff3ee8622edf6bd6ec4912fac` | Unchanged export |
+| `Journal(20260921-112140).pdf` | `228c64dd01fd8c1ae28613fc4f9b8cbf27ad20872da6dc9f0ac4eda9d8ea301c` | Unchanged export |
+| `Journal(20260921-112201).pdf` | `97a3e4a282bb24abbaab5cbe182f3275b0ce7e4d5c11a71cb1467f1f77f558ea` | Unchanged export |
