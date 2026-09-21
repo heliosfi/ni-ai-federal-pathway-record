@@ -18,3 +18,18 @@ J2 and J3 are public redacted derivatives. The full original PDFs were supplied 
 | `Journal(20260921-105200).pdf` | `e44eb2a2425249d8d54cd9f09bf21d19e4e174e3aef6bb549ce96036b074b0a4` | Unchanged export |
 
 The export headings and promotional language are historical source text, not current readiness findings. The analysis is in [the batch review](../docs/2025-11-20-government-pack-batch-review.md).
+
+## Continuation: Pages 5–11
+
+The following eight PDFs are unchanged exports supplied September 21, 2026. The two differently titled Page 11 entries are preserved as separate sources, without deciding which draft supersedes the other. Their internal November 20, 2025 headings are not independently authenticated timestamps. Their agency, security, and compliance language is proposal text, not evidence of adoption or certification. See [the continuation review](../docs/2025-11-20-government-pack-continuation-review.md).
+
+| File | SHA-256 |
+| --- | --- |
+| `Journal(20260921-110301).pdf` | `bb95303adc9c002f16123dafca257e339bd17c65dd686e602e17594ec45987d6` |
+| `Journal(20260921-110339).pdf` | `9e0a56f1c6118ace172f628c4b10ba6a5c2ed152906f34aa8d69f24d763ee8bf` |
+| `Journal(20260921-110403).pdf` | `654e61e52e2b848eb5e31f7eab2e76117c60b6b0da1577593474673a7b0b447a` |
+| `Journal(20260921-110429).pdf` | `01b0b14cb025fa47c743c27b0aff16b98d1e344ba648884aa843cb01c6d3fdc1` |
+| `Journal(20260921-110449).pdf` | `2c6b8e843de181963fc0570c5a712d3d3b595eb46cf8a24cf0ab153f9eb39737` |
+| `Journal(20260921-110520).pdf` | `0e3afc98da3ea9b2e53a7662972b15234e873989b09783a35506749282a628ec` |
+| `Journal(20260921-110543).pdf` | `92dd6a202baa4fe2b4e5d26a836d45cac051dddc09d624fccc67ce971f9b375d` |
+| `Journal(20260921-110619).pdf` | `dabd7e9c433573b9945c7d8c72f5610941e2d2c95c492b5358aad279201410e1` |
